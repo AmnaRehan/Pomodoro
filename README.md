@@ -1,6 +1,7 @@
 A minimalist, customizable Pomodoro timer built with React, Vite, and Tailwind CSS.
 
 ✨ Features:
+
 📅 Customizable Pomodoro cycle – set your own work and break durations (default 25/5)
 🔁 Automatic short & long breaks based on completed sessions
 🎵 Ambient background sound – calming music or complete silence
